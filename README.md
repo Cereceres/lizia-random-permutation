@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Cereceres/lizia-random-permutation.svg?branch=master)](https://travis-ci.org/Cereceres/lizia-random-permutation)
 # lizia-random-permutation
 make a random permutation of a array given, like  lizia.
 ## Install
