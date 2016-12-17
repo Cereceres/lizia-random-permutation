@@ -1,6 +1,6 @@
 {
   "name": "lizia-random-permutation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "random permutation of a array, like lizia.",
   "main": "index.js",
   "scripts": {
